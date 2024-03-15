@@ -1,0 +1,13 @@
+.frinds {
+    border: 2px solid turquoise;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.port {
+    border: 2px solid rgb(241, 165, 0);
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+}
